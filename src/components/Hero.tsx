@@ -25,7 +25,7 @@ const Hero = () => {
               <Mic className="h-8 w-8 text-primary-foreground" />
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              SpeechAI
+              VyomAi
             </h1>
           </div>
 

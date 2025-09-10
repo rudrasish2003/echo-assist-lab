@@ -62,7 +62,7 @@ const VoiceChatbot = () => {
               <div className="flex items-center gap-2">
                 <div className="w-3 h-3 rounded-full bg-voice-primary animate-pulse-glow"></div>
                 <span className="text-sm font-medium text-foreground">
-                  SpeechAI Assistant
+                  VyomAi Assistant
                 </span>
               </div>
               <Button
